@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CookieCrumbActivity!</string>
+    <string name="app_name">CookieCrumb</string>
+    <string name="authority">mobile.group.provider</string>
+	<string name="my_api_key">0LFvNpTDfOVQIyoGKMBuvUrzFUMlSURRgHi5j6g</string>
+</resources>

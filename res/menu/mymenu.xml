@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/clear" android:title="Clear All"></item>
+    <item android:id="@+id/tracks" android:title="Tracks"></item><item android:id="@+id/exit" android:title="Exit"></item>
+    
+    
+
+</menu>

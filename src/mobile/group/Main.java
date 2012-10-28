@@ -61,9 +61,8 @@ public class Main extends Activity {
 			}
 		});
 
-		if (getIntent().getBooleanExtra("EXIT", false)) {
+		if (getIntent().getBooleanExtra("EXIT", false))
 			finish();
-		}
 
 		location = (Button) findViewById(R.id.location);
 		locationText = (TextView) findViewById(R.id.locationText);

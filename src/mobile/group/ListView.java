@@ -20,7 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ListView extends ListActivity {
-	ArrayList<String> listItems = new ArrayList<String>();
+	ArrayList<String> listItems  = new ArrayList<String>();
 	ArrayList<String> listItems2 = new ArrayList<String>(); 
 	ArrayAdapter<String> adapter;
 
@@ -48,7 +48,6 @@ public class ListView extends ListActivity {
 				new String[]{"address","rest"}, 
 				new int[] {android.R.id.text1, android.R.id.text2});
 		setListAdapter(adapter);
-
 	}
 
 	@Override public boolean onCreateOptionsMenu(Menu menu) {
